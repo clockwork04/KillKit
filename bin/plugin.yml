@@ -1,0 +1,10 @@
+name: KillKit
+version: 1.5
+main: nya.clockwork04.KillKit.Main
+author: Snoopie
+description: A (at least as far as i can tell) complete replacement for Bukkit's /kill enabling suicide
+
+commands:
+     kill:
+         usage: /<command> [target]
+         description: Kills Command Sender or target
